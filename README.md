@@ -1,4 +1,13 @@
-## Hi ik ben Larissa 👋
+## Heey! Ik ben Larissa 👋
+Ik ben student op de Hogeschool van Amsterdam en studeer `Frontend Design and Development`. 
+
+### 🔭 I’m currently working on ...
+
+### 🌱 I’m currently learning ...
+- Sveltekit
+- 
+
+
 
 <!--
 **Lmikkers/Lmikkers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
