@@ -1,11 +1,9 @@
 ## Heey! Ik ben Larissa 👋
 Ik ben student op de Hogeschool van Amsterdam en studeer `Frontend Design and Development`. 
 
-### 🔭 I’m currently working on ...
-
 ### 🌱 I’m currently learning ...
-- Sveltekit
-- 
+- Frameworks, `Sveltekit`
+- Javascript
 
 
 
