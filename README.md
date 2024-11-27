@@ -1,14 +1,14 @@
 ## Heey! Ik ben Larissa 👋
 Ik ben student op de Hogeschool van Amsterdam en studeer `Frontend Design and Development`. Ik vind het leuk om van een ontwerp een werkende applicatie te maken en dit ook goed responsive te maken! 
 
-### Tools
+### 🔧 Tools
 - Sveltekit
 - NodeJS
 - NPM
 - Adobe CC 
 - Figma
 
-### Code
+### 🚀 Code
 - HTML
 - CSS
 - Javascript
