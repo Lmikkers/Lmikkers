@@ -4,9 +4,9 @@ Ik ben student op de Hogeschool van Amsterdam en studeer `Frontend Design and De
 ### 🔧 Tools
 - Sveltekit
 - NodeJS
-- NPM
 - Adobe CC 
 - Figma
+- Headless CMS
 
 ### 🚀 Code
 - HTML
