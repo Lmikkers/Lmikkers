@@ -5,7 +5,9 @@ Ik ben student op de Hogeschool van Amsterdam en studeer `Frontend Design and De
 - Frameworks, `Sveltekit`
 - Javascript
 
-
+### 🔭 I’m currently working on ...
+- [Component building block](https://github.com/Lmikkers/component-building-block) | FDND Opdracht
+- [Portfolio 2024](https://github.com/Lmikkers/portfolio-24) | Portfolio 
 
 <!--
 **Lmikkers/Lmikkers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
