@@ -13,7 +13,7 @@ Ik ben student op de Hogeschool van Amsterdam en studeer `Frontend Design and De
 - CSS
 - Javascript
 
-### 🔭 I’m currently working on ...
+### 💻 I’m currently working on ...
 - [Component building block](https://github.com/Lmikkers/component-building-block) | FDND individuele opdracht
 - [Portfolio 2024](https://github.com/Lmikkers/portfolio-24) | Begin gemaakt aan mijn portfolio 
 - [Bieb in bloei](https://github.com/fdnd-agency/buurtcampus-oost/tree/release-candidate-bieb-in-bloei) | FDND Groepsopdracht, bezig met Harry (mascotte) en de website verbeteren
